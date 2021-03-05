@@ -2,9 +2,38 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <link rel="stylesheet" href="../css/bootstrap.css"/>
+    <link rel="stylesheet" href="../css/MainStyleSheet.css">
     <title>Todo List.Homepage</title>
 </head>
 <body>
-<h1>Welcome Lets start by adding some ToDos:</h1>
+<div class="container">
+    <h1>Welcome Lets start by adding some ToDos:</h1>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-12 intro">
+            <p>Add ToDo:</p>
+        </div>
+        <div class="border-1"></div>
+    </div>
+</div>
+
+<!--New Section-->
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <input id="userInput" type="text" placeholder="Hello Friend, lets do some Todo's" maxlength="30">
+            <button id="enter" type="submit">Lets Doit!!!</button>
+        </div>
+    </div>
+    <!--Section for each new Todo Added-->
+    <div class="row">
+        <div class="list-group-item-light col-12">
+            <ul class="col-12 offset-0 col-sm-4 offset-sm-2"></ul>
+            <h3>...</h3>
+        </div>
+    </div>
+</div>
 </body>
 </html>
