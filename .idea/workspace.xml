@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81f4427e-7022-42bd-a3f0-5ea254ab3687" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/css/MainStyleSheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/MainStyleSheet.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/AddToDo.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/AddToDo.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +38,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614966576291</updated>
-      <workItem from="1614966577401" duration="2396000" />
+      <workItem from="1614966577401" duration="2468000" />
     </task>
     <servers />
   </component>
